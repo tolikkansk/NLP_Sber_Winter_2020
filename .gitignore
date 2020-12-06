@@ -1,0 +1,8 @@
+# python tmp files
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+sparktmp/
+.cache/
+*.csv
+*.zip
